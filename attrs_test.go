@@ -1,7 +1,7 @@
 package shattr
 
 import "testing"
-import "github.com/sdegutis/assert"
+import "github.com/sdegutis/go.assert"
 
 import "bytes"
 import "fmt"
